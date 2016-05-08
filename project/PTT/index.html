@@ -48,9 +48,9 @@ function submit()
 		<div id="logo">
 			
 			
-			<h1><a href="#">PTT Board Search</a></h1>
+			<h1><a href="#">PTT相似看板大搜尋！</a></h1>
 			<span></a></span>
-			Choose a board from below. Boards not listed are resulted from insufficient data.
+			1. 選擇一個你有興趣的看板！
 			<br>	
 			
 		<select name="board" id='selectBrd' onchange='changeSelect()'>
@@ -1622,7 +1622,12 @@ function submit()
 <option value="Zombie">Zombie</option>
 
 			</select>
-			<button id='submitBrd' onclick='submit()' disabled="disabled">Get result</button>
+			<button id='submitBrd' onclick='submit()' disabled="disabled">Get result</button><br>
+			2. 看看幾個最為相似的看板！
+			<br><br>
+			<p style='font-size: 0.8em'>
+			說明：從左邊開始，是最相似的看板。相似度以綠色長條為準。<br>
+			網頁下方有參考用的公式，有興趣可搭配服用~</p>
 			</div>
 	</div>
 </div>
