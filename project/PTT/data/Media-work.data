@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-clmusic	2	0.0172523961661
-WorkanTravel	1	0.0562300319489
-job	1	0.0984025559105
-Gossiping	1	19.1233226837
-Indie-Film	1	0.00958466453674
-Artfilm	1	0.00702875399361
-TaichungBun	1	0.651757188498
+board	degree	nordegree
+clmusic	2	231.851851852
+Artfilm	1	142.272727273
+Indie-Film	1	104.333333333
+WorkanTravel	1	17.7840909091
+job	1	10.1623376623
+TaichungBun	1	1.53431372549
+Gossiping	1	0.0522921678696

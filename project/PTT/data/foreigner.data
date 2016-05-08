@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-Coffee	1	0.0581469648562
-Language	1	0.0242811501597
-Q_ary	1	0.0230031948882
-BuyTogether	4	0.613418530351
-need_student	1	0.0185303514377
-Francais	1	0.0172523961661
-Chat82gether	1	0.545686900958
+board	degree	nordegree
+Francais	1	57.962962963
+need_student	1	53.9655172414
+Q_ary	1	43.4722222222
+Language	1	41.1842105263
+BuyTogether	4	26.0833333333
+Coffee	1	17.1978021978
+Chat82gether	1	1.83255269321

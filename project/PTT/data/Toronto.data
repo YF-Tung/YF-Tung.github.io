@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-NewYork	1	0.0607028753994
-Canada	2	0.00894568690096
-WorkanTravel	1	0.0562300319489
-NorthAmerica	1	0.0127795527157
-Tour-Agency	1	0.0696485623003
+board	degree	nordegree
+Canada	2	447.142857143
+NorthAmerica	1	78.25
+WorkanTravel	1	17.7840909091
+NewYork	1	16.4736842105
+Tour-Agency	1	14.3577981651

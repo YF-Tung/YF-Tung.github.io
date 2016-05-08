@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-R_Language	1	0.00127795527157
-HsinChuang	1	0.17571884984
-Rent_ya	1	0.205111821086
-Rent_tao	3	0.278594249201
-NCCU_Info	1	0.00638977635783
-rent-exp	1	0.0319488817891
+board	degree	nordegree
+R_Language	1	782.5
+NCCU_Info	1	156.5
+Rent_tao	3	32.3050458716
+rent-exp	1	31.3
+HsinChuang	1	5.69090909091
+Rent_ya	1	4.8753894081

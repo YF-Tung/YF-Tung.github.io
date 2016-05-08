@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-GetMarry	1	0.146325878594
-Tainan	1	1.17252396166
-MakeUp	1	0.0830670926518
-Suit_Style	1	0.00958466453674
+board	degree	nordegree
+Suit_Style	1	104.333333333
+MakeUp	1	12.0384615385
+GetMarry	1	6.83406113537
+Tainan	1	0.852861035422

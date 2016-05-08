@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-Yunlin	1	0.0741214057508
-home-sale	1	0.364217252396
-Eng-Class	3	0.109265175719
-Disabled	1	0.0191693290735
-C_Chat	16	2.8249201278
-specialman	1	0.00511182108626
+board	degree	nordegree
+specialman	1	195.625
+C_Chat	16	90.6220312147
+Eng-Class	3	82.3684210526
+Disabled	1	52.1666666667
+Yunlin	1	13.4913793103
+home-sale	1	2.74561403509

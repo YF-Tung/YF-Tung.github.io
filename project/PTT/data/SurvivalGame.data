@@ -1,4 +1,4 @@
-Name	Degree	NorDegree
-mobilesales	1	0.683067092652
-Gamesale	2	0.915654952077
-HardwareSale	2	0.65303514377
+board	degree	nordegree
+HardwareSale	2	6.1252446184
+Gamesale	2	4.36845778088
+mobilesales	1	1.46398503274

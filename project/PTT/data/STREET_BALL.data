@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-basketball	1	0.00255591054313
-share	1	0.0268370607029
-MobileComm	2	0.94249201278
-Gossiping	3	19.1233226837
-Mix_Match	1	0.0134185303514
-toberich	2	0.0945686900958
-TaichungBun	1	0.651757188498
+board	degree	nordegree
+basketball	1	391.25
+Mix_Match	1	74.5238095238
+toberich	2	42.2972972973
+share	1	37.2619047619
+MobileComm	2	4.24406779661
+TaichungBun	1	1.53431372549
+Gossiping	3	0.470629510826

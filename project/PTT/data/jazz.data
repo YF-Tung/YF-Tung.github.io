@@ -1,4 +1,4 @@
-Name	Degree	NorDegree
-guitar	2	0.0421725239617
-piano	1	0.00766773162939
-keyboard	3	0.00766773162939
+board	degree	nordegree
+keyboard	3	1173.75
+piano	1	130.416666667
+guitar	2	94.8484848485

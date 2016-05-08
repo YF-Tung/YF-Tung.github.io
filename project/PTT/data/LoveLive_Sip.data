@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Baseball	3	4.78274760383
-C_Chat	22	2.8249201278
-Elephants	2	7.60063897764
-SummonsBoard	1	0.0741214057508
-joke	1	1.13865814696
+board	degree	nordegree
+C_Chat	22	171.332277765
+SummonsBoard	1	13.4913793103
+Baseball	3	1.88176352705
+joke	1	0.87822671156
+Elephants	2	0.526271542665

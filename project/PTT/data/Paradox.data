@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Storage_Zone	1	0.0415335463259
-CATCH	1	0.0907348242812
-Gossiping	2	19.1233226837
-Audiophile	1	0.082428115016
-Foreign_Inv	1	0.0038338658147
+board	degree	nordegree
+Foreign_Inv	1	260.833333333
+Storage_Zone	1	24.0769230769
+Audiophile	1	12.1317829457
+CATCH	1	11.0211267606
+Gossiping	2	0.209168671478

@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-Wrestle	1	0.029392971246
-movie	1	1.67987220447
-graduate	1	0.0702875399361
-Baseball	4	4.78274760383
-Mechanical	1	0.0178913738019
-Gossiping	3	19.1233226837
+board	degree	nordegree
+Mechanical	1	55.8928571429
+Wrestle	1	34.0217391304
+graduate	1	14.2272727273
+Baseball	4	3.34535738143
+movie	1	0.59528337771
+Gossiping	3	0.470629510826

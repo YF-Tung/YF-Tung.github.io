@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gossiping	2	19.1233226837
-FengYuan	1	0.014696485623
-give	1	0.760383386581
-Scorpio	1	0.0651757188498
-Yuzu	1	0.000638977635783
+board	degree	nordegree
+Yuzu	1	1565.0
+FengYuan	1	68.0434782609
+Scorpio	1	15.3431372549
+give	1	1.31512605042
+Gossiping	2	0.209168671478

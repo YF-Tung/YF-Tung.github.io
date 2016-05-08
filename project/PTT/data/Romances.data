@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-HsinChuang	1	0.17571884984
-Drama-Ticket	16	1.39808306709
-BuyTogether	1	0.613418530351
-FengYuan	1	0.014696485623
-C_Chat	1	2.8249201278
-forsale	3	12.2313099042
+board	degree	nordegree
+Drama-Ticket	16	183.10786106
+FengYuan	1	68.0434782609
+HsinChuang	1	5.69090909091
+BuyTogether	1	1.63020833333
+forsale	3	0.735816529098
+C_Chat	1	0.353992309432

@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-Singapore	1	0.0223642172524
-travel	1	0.452396166134
-Hotel	1	0.0849840255591
-EuropeTravel	1	0.0856230031949
-Gra-Travels	1	0.00830670926518
-Ind-travel	1	0.243450479233
-London	1	0.00702875399361
+board	degree	nordegree
+London	1	142.272727273
+Gra-Travels	1	120.384615385
+Singapore	1	44.7142857143
+Hotel	1	11.7669172932
+EuropeTravel	1	11.6791044776
+Ind-travel	1	4.10761154856
+travel	1	2.2104519774

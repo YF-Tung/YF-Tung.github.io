@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-movie	1	1.67987220447
-single	1	0.00447284345048
-Insurance	1	0.0498402555911
-Bank_Service	1	0.102236421725
-YuBeauty	2	0.00638977635783
+board	degree	nordegree
+YuBeauty	2	626.0
+single	1	223.571428571
+Insurance	1	20.0641025641
+Bank_Service	1	9.78125
+movie	1	0.59528337771

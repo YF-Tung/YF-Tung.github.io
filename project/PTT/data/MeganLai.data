@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-CN_Entertain	100	1.00575079872
-SuperJunior	70	0.361022364217
-Drama-Ticket	1	1.39808306709
-RiverChen	130	0.240255591054
-D.C.W.	1	0.00127795527157
+board	degree	nordegree
+RiverChen	130	70341.7553191
+SuperJunior	70	13572.5663717
+CN_Entertain	100	9942.82083863
+D.C.W.	1	782.5
+Drama-Ticket	1	0.715265082267

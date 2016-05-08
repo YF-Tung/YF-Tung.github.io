@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gossiping	5	19.1233226837
-TaiShan	1	0.0185303514377
-TaichungBun	1	0.651757188498
-Bank_Service	1	0.102236421725
-car	1	0.631309904153
+board	degree	nordegree
+TaiShan	1	53.9655172414
+Bank_Service	1	9.78125
+car	1	1.58400809717
+TaichungBun	1	1.53431372549
+Gossiping	5	1.30730419674

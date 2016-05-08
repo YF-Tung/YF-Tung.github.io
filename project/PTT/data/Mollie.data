@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-Storage_Zone	1	0.0415335463259
-nb-shopping	1	0.214696485623
-textbook	3	0.124600638978
-hardware	1	0.0543130990415
-NihonBook	4	0.0230031948882
-forsale	11	12.2313099042
-barterbooks	11	0.782108626198
+board	degree	nordegree
+NihonBook	4	695.555555556
+barterbooks	11	154.70996732
+textbook	3	72.2307692308
+Storage_Zone	1	24.0769230769
+hardware	1	18.4117647059
+forsale	11	9.89264444677
+nb-shopping	1	4.65773809524

@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-Salary	1	0.357827476038
-Transfer	1	0.0121405750799
-Finance	1	0.0230031948882
-ForeignEX	1	0.0396166134185
+board	degree	nordegree
+Transfer	1	82.3684210526
+Finance	1	43.4722222222
+ForeignEX	1	25.2419354839
+Salary	1	2.79464285714

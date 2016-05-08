@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-gay	2	0.157188498403
-gender-TIE	1	0.00191693290735
-part-time	1	0.385942492013
-bi-sexual	1	0.0249201277955
-transgender	1	0.0191693290735
-lesbian	1	0.0543130990415
-Feminism	1	0.0159744408946
+board	degree	nordegree
+gender-TIE	1	521.666666667
+Feminism	1	62.6
+transgender	1	52.1666666667
+bi-sexual	1	40.1282051282
+gay	2	25.4471544715
+lesbian	1	18.4117647059
+part-time	1	2.59105960265

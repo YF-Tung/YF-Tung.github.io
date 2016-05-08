@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-TW_Entertain	3	0.0511182108626
-Beauty	2	0.750159744409
-GossipPicket	1	0.800638977636
-joke	1	1.13865814696
-L_TalkandCha	21	0.246645367412
-Gossiping	13	19.1233226837
+board	degree	nordegree
+L_TalkandCha	21	1787.99222798
+TW_Entertain	3	176.0625
+Gossiping	13	8.83737636995
+Beauty	2	5.33219761499
+GossipPicket	1	1.24900239425
+joke	1	0.87822671156

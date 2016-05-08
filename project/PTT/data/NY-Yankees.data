@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gossiping	4	19.1233226837
-Lifeismoney	2	0.21661341853
-LoL_Picket	2	0.155271565495
-LoL	8	2.79744408946
-FBaseball	6	0.0485623003195
+board	degree	nordegree
+FBaseball	6	741.315789474
+LoL_Picket	2	25.7613168724
+LoL	8	22.8780264961
+Lifeismoney	2	18.4660766962
+Gossiping	4	0.836674685913

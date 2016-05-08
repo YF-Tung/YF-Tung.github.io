@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-HatePolitics	1	2.15463258786
-Sad	1	0.184664536741
-Gossiping	4	19.1233226837
-ask	1	0.564217252396
-Aviation	1	0.453674121406
-Seattle	1	0.00638977635783
+board	degree	nordegree
+Seattle	1	156.5
+Sad	1	5.41522491349
+Aviation	1	2.20422535211
+ask	1	1.77236693092
+Gossiping	4	0.836674685913
+HatePolitics	1	0.464116251483

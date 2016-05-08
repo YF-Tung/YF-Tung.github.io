@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-Language	3	0.0242811501597
-Deutsch	2	0.0172523961661
-Italiano	1	0.00319488817891
-Francais	2	0.0172523961661
-SummerCourse	1	0.000638977635783
-NewActivity	1	0.480511182109
+board	degree	nordegree
+SummerCourse	1	1565.0
+Language	3	370.657894737
+Italiano	1	313.0
+Francais	2	231.851851852
+Deutsch	2	231.851851852
+NewActivity	1	2.08111702128

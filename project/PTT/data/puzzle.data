@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gamesale	3	0.915654952077
-Drama-Ticket	1	1.39808306709
-forsale	1	12.2313099042
-barterbooks	3	0.782108626198
-BoardGame	3	0.115015974441
+board	degree	nordegree
+BoardGame	3	78.25
+barterbooks	3	11.5073529412
+Gamesale	3	9.82903000698
+Drama-Ticket	1	0.715265082267
+forsale	1	0.081757392122

@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-ForeignEX	1	0.0396166134185
-home-sale	2	0.364217252396
-Bank_Service	1	0.102236421725
-Japan_Travel	1	0.669009584665
-Insurance	3	0.0498402555911
-CFP	1	0.0242811501597
+board	degree	nordegree
+Insurance	3	180.576923077
+CFP	1	41.1842105263
+ForeignEX	1	25.2419354839
+home-sale	2	10.9824561404
+Bank_Service	1	9.78125
+Japan_Travel	1	1.49474689589

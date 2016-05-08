@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-Gossiping	2	19.1233226837
-PostRock	1	0.00191693290735
-NTU	1	0.895207667732
-JapaneseRock	1	0.00191693290735
+board	degree	nordegree
+PostRock	1	521.666666667
+JapaneseRock	1	521.666666667
+NTU	1	1.1170592434
+Gossiping	2	0.209168671478

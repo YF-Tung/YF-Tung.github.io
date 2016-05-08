@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-jazz	3	0.0038338658147
-DigitalMusic	1	0.0217252396166
-guitar	3	0.0421725239617
-piano	3	0.00766773162939
-forsale	1	12.2313099042
-Tainan	1	1.17252396166
+board	degree	nordegree
+jazz	3	2347.5
+piano	3	1173.75
+guitar	3	213.409090909
+DigitalMusic	1	46.0294117647
+Tainan	1	0.852861035422
+forsale	1	0.081757392122

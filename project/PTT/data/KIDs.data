@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-Preschooler	3	0.0325878594249
-NewActivity	2	0.480511182109
-drawing	2	0.0670926517572
-BabyMother	1	0.345047923323
+board	degree	nordegree
+Preschooler	3	276.176470588
+drawing	2	59.619047619
+NewActivity	2	8.32446808511
+BabyMother	1	2.89814814815

@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-Storage_Zone	1	0.0415335463259
-Old-Games	1	0.0715654952077
-PC_Shopping	1	0.240255591054
-hardware	1	0.0543130990415
-Ladies_Digi	2	0.00127795527157
-Hate	1	11.3265175719
+board	degree	nordegree
+Ladies_Digi	2	3130.0
+Storage_Zone	1	24.0769230769
+hardware	1	18.4117647059
+Old-Games	1	13.9732142857
+PC_Shopping	1	4.16223404255
+Hate	1	0.0882883899357

@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-HatePolitics	12	2.15463258786
-JapanIdol	1	0.0102236421725
-movie	1	1.67987220447
-Test	1	1.41725239617
-JP_Entertain	1	0.029392971246
-Gossiping	12	19.1233226837
-Japan_Travel	4	0.669009584665
+board	degree	nordegree
+JapanIdol	1	97.8125
+HatePolitics	12	66.8327402135
+JP_Entertain	1	34.0217391304
+Japan_Travel	4	23.9159503343
+Gossiping	12	7.53007217322
+Test	1	0.705590622182
+movie	1	0.59528337771

@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-part-time	1	0.385942492013
-LAW	1	0.0543130990415
-Teacher	2	0.0926517571885
-HomeTeach	1	0.0332268370607
+board	degree	nordegree
+Teacher	2	43.1724137931
+HomeTeach	1	30.0961538462
+LAW	1	18.4117647059
+part-time	1	2.59105960265

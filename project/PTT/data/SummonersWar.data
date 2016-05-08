@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-WomenTalk	1	3.19616613419
-WOW	1	0.153993610224
-joke	1	1.13865814696
-TaichungBun	3	0.651757188498
-PuzzleDragon	1	0.0683706070288
+board	degree	nordegree
+PuzzleDragon	1	14.6261682243
+TaichungBun	3	13.8088235294
+WOW	1	6.49377593361
+joke	1	0.87822671156
+WomenTalk	1	0.31287485006

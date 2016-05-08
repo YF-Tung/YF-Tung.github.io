@@ -1,4 +1,4 @@
-Name	Degree	NorDegree
-Gossiping	2	19.1233226837
-Electronics	1	0.0127795527157
-Stock	1	0.550159744409
+board	degree	nordegree
+Electronics	1	78.25
+Stock	1	1.81765389082
+Gossiping	2	0.209168671478

@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-LicenseShop	2	0.0632587859425
-GraduateCram	1	0.0338658146965
-Examination	1	0.208306709265
-Donate-Blood	1	0.0115015974441
-Gossiping	20	19.1233226837
-Accounting	1	0.103514376997
-forsale	11	12.2313099042
+board	degree	nordegree
+Donate-Blood	1	86.9444444444
+LicenseShop	2	63.2323232323
+GraduateCram	1	29.5283018868
+Gossiping	20	20.9168671478
+forsale	11	9.89264444677
+Accounting	1	9.66049382716
+Examination	1	4.80061349693

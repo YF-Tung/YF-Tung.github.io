@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-joke	1	1.13865814696
-NTU_GoodLife	2	0.311821086262
-NTU	2	0.895207667732
-barterbooks	3	0.782108626198
-Deutsch	1	0.0172523961661
+board	degree	nordegree
+Deutsch	1	57.962962963
+NTU_GoodLife	2	12.8278688525
+barterbooks	3	11.5073529412
+NTU	2	4.46823697359
+joke	1	0.87822671156

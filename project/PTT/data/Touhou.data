@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-PuzzleDragon	1	0.0683706070288
-OverWatch	1	0.135463258786
-StupidClown	1	0.259424920128
-C_Chat	4	2.8249201278
-CNU	1	0.00319488817891
+board	degree	nordegree
+CNU	1	313.0
+PuzzleDragon	1	14.6261682243
+OverWatch	1	7.3820754717
+C_Chat	4	5.66387695092
+StupidClown	1	3.85467980296

@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-NorthAmerica	1	0.0127795527157
-SanFrancisco	1	0.0102236421725
-SanDiego	2	0.00638977635783
-LA	3	0.0185303514377
-Food	1	0.792971246006
-chatskill	1	0.00575079872204
-Scorpio	1	0.0651757188498
+board	degree	nordegree
+SanDiego	2	626.0
+LA	3	485.689655172
+chatskill	1	173.888888889
+SanFrancisco	1	97.8125
+NorthAmerica	1	78.25
+Scorpio	1	15.3431372549
+Food	1	1.26107977438

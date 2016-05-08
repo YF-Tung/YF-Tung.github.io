@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-part-time	1	0.385942492013
-Rent_apart	1	0.109904153355
-NBAJerseys	1	0.0140575079872
-TamShui	1	0.0191693290735
-RedSox	1	0.18338658147
+board	degree	nordegree
+NBAJerseys	1	71.1363636364
+TamShui	1	52.1666666667
+Rent_apart	1	9.0988372093
+RedSox	1	5.45296167247
+part-time	1	2.59105960265

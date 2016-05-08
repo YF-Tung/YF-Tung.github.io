@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-car	1	0.631309904153
-HelpBuy	12	2.21916932907
-forsale	12	12.2313099042
-BigSanchung	1	0.175079872204
-car-pool	1	0.102875399361
+board	degree	nordegree
+HelpBuy	12	64.8891448316
+forsale	12	11.7730644656
+car-pool	1	9.72049689441
+BigSanchung	1	5.71167883212
+car	1	1.58400809717

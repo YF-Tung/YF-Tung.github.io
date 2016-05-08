@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-Ind-travel	4	0.243450479233
-travel	1	0.452396166134
-DSLR	1	0.0453674121406
-DC	1	0.020447284345
+board	degree	nordegree
+Ind-travel	4	65.7217847769
+DC	1	48.90625
+DSLR	1	22.0422535211
+travel	1	2.2104519774

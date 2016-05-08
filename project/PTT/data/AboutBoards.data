@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-C_Chat	1	2.8249201278
-HisService	1	0.00127795527157
-PhD	13	0.0472843450479
-Acad-Affairs	21	0.0313099041534
-BookService	1	0.000638977635783
+board	degree	nordegree
+Acad-Affairs	21	14085.0
+PhD	13	3574.12162162
+BookService	1	1565.0
+HisService	1	782.5
+C_Chat	1	0.353992309432

@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-PlayStation	2	0.390415335463
-HatePolitics	2	2.15463258786
-CrossStrait	1	0.502875399361
-C_Chat	1	2.8249201278
-LoL	1	2.79744408946
-Gossiping	2	19.1233226837
-BigBanciao	1	0.189137380192
+board	degree	nordegree
+PlayStation	2	10.2454991817
+BigBanciao	1	5.28716216216
+CrossStrait	1	1.98856416773
+HatePolitics	2	1.85646500593
+LoL	1	0.357469164002
+C_Chat	1	0.353992309432
+Gossiping	2	0.209168671478

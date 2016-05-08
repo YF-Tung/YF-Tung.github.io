@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-movie	2	1.67987220447
-single	2	0.00447284345048
-GreysAnatomy	2	0.0038338658147
-Insurance	2	0.0498402555911
-Bank_Service	2	0.102236421725
+board	degree	nordegree
+GreysAnatomy	2	1043.33333333
+single	2	894.285714286
+Insurance	2	80.2564102564
+Bank_Service	2	39.125
+movie	2	2.38113351084

@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-Taoyuan	1	0.347603833866
-Boy-Girl	5	0.451757188498
-BuyTogether	1	0.613418530351
-ChangHua	1	0.288817891374
+board	degree	nordegree
+Boy-Girl	5	55.3394625177
+ChangHua	1	3.46238938053
+Taoyuan	1	2.87683823529
+BuyTogether	1	1.63020833333

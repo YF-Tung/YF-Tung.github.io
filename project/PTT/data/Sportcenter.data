@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-Test	1	1.41725239617
-Aikido	1	0.00255591054313
-SYSOP	1	0.0313099041534
-CourtGeneral	1	0.00255591054313
+board	degree	nordegree
+CourtGeneral	1	391.25
+Aikido	1	391.25
+SYSOP	1	31.9387755102
+Test	1	0.705590622182

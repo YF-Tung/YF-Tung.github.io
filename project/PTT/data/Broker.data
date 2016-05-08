@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-Music-Sell	3	0.0460063897764
-Option	1	0.0511182108626
-nb-shopping	1	0.214696485623
-Refresh	1	0.218530351438
-HelpBuy	2	2.21916932907
-HardwareSale	1	0.65303514377
-Tour-Agency	1	0.0696485623003
+board	degree	nordegree
+Music-Sell	3	195.625
+Option	1	19.5625
+Tour-Agency	1	14.3577981651
+nb-shopping	1	4.65773809524
+Refresh	1	4.57602339181
+HelpBuy	2	1.80247624532
+HardwareSale	1	1.5313111546

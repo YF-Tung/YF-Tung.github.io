@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-AndroidDev	1	0.00958466453674
-Tech_Job	2	0.337380191693
-Hokuto	2	0.00255591054313
-bicycle	4	0.088178913738
-Nantou	1	0.0760383386581
+board	degree	nordegree
+Hokuto	2	1565.0
+bicycle	4	181.449275362
+AndroidDev	1	104.333333333
+Nantou	1	13.1512605042
+Tech_Job	2	11.8560606061

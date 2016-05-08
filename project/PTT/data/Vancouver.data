@@ -1,4 +1,4 @@
-Name	Degree	NorDegree
-Canada	1	0.00894568690096
-studyabroad	1	0.0428115015974
-global_univ	1	0.00319488817891
+board	degree	nordegree
+global_univ	1	313.0
+Canada	1	111.785714286
+studyabroad	1	23.3582089552

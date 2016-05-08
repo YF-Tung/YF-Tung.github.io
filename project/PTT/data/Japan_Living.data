@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-JapanStudy	1	0.00894568690096
-WorkanTravel	1	0.0562300319489
-Taoyuan	2	0.347603833866
-Hsinchu	1	0.42428115016
-Key_Mou_Pad	1	0.111182108626
-HelpBuy	1	2.21916932907
-lesbian	1	0.0543130990415
+board	degree	nordegree
+JapanStudy	1	111.785714286
+lesbian	1	18.4117647059
+WorkanTravel	1	17.7840909091
+Taoyuan	2	11.5073529412
+Key_Mou_Pad	1	8.99425287356
+Hsinchu	1	2.35692771084
+HelpBuy	1	0.45061906133

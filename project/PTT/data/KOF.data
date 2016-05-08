@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gossiping	4	19.1233226837
-ToS	6	0.0996805111821
-Broad_Band	1	0.0121405750799
-streetfight	2	0.0274760383387
-TaichungBun	1	0.651757188498
+board	degree	nordegree
+ToS	6	361.153846154
+streetfight	2	145.581395349
+Broad_Band	1	82.3684210526
+TaichungBun	1	1.53431372549
+Gossiping	4	0.836674685913

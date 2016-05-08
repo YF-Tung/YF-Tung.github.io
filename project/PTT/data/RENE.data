@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-BigSanchung	1	0.175079872204
-EAseries	1	0.102875399361
-Drama-Ticket	9	1.39808306709
-WesternMusic	1	0.0434504792332
-popmusic	1	0.0274760383387
-movie	7	1.67987220447
-Gossiping	1	19.1233226837
+board	degree	nordegree
+Drama-Ticket	9	57.9364716636
+popmusic	1	36.3953488372
+movie	7	29.1688855078
+WesternMusic	1	23.0147058824
+EAseries	1	9.72049689441
+BigSanchung	1	5.71167883212
+Gossiping	1	0.0522921678696

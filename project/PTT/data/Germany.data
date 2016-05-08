@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-gallantry	2	0.0945686900958
-Militarylife	4	0.42875399361
-BabyMother	1	0.345047923323
-Gossiping	7	19.1233226837
-BigBanciao	1	0.189137380192
-Holland	2	0.00830670926518
+board	degree	nordegree
+Holland	2	481.538461538
+gallantry	2	42.2972972973
+Militarylife	4	37.3174366617
+BigBanciao	1	5.28716216216
+BabyMother	1	2.89814814815
+Gossiping	7	2.56231622561

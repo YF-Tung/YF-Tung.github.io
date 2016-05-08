@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-ask	1	0.564217252396
-WomenTalk	1	3.19616613419
-street_style	4	0.0274760383387
-shoes	2	0.0408945686901
-Salary	1	0.357827476038
+board	degree	nordegree
+street_style	4	582.325581395
+shoes	2	97.8125
+Salary	1	2.79464285714
+ask	1	1.77236693092
+WomenTalk	1	0.31287485006

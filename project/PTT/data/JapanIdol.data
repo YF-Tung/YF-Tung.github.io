@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gossiping	12	19.1233226837
-Test	1	1.41725239617
-GirlIdolUnit	1	0.020447284345
-JP_Entertain	1	0.029392971246
-movie	1	1.67987220447
+board	degree	nordegree
+GirlIdolUnit	1	48.90625
+JP_Entertain	1	34.0217391304
+Gossiping	12	7.53007217322
+Test	1	0.705590622182
+movie	1	0.59528337771

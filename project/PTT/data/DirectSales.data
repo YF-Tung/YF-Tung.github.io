@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-bass	1	0.00575079872204
-give	1	0.760383386581
-HatePolitics	3	2.15463258786
-Rent_tao	1	0.278594249201
-Gossiping	14	19.1233226837
-TaichungBun	1	0.651757188498
+board	degree	nordegree
+bass	1	173.888888889
+Gossiping	14	10.2492649024
+HatePolitics	3	4.17704626335
+Rent_tao	1	3.58944954128
+TaichungBun	1	1.53431372549
+give	1	1.31512605042

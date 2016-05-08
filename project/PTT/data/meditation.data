@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-flying	1	0.00511182108626
-Chi-Gong	1	0.00191693290735
-Folklore	1	0.0300319488818
-Taoism	1	0.0159744408946
+board	degree	nordegree
+Chi-Gong	1	521.666666667
+flying	1	195.625
+Taoism	1	62.6
+Folklore	1	33.2978723404

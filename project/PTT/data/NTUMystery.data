@@ -1,4 +1,4 @@
-Name	Degree	NorDegree
-Detective	1	0.00830670926518
-MysteryStory	1	0.00191693290735
-NTU	1	0.895207667732
+board	degree	nordegree
+MysteryStory	1	521.666666667
+Detective	1	120.384615385
+NTU	1	1.1170592434

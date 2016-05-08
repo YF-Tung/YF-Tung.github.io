@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-bicycle	2	0.088178913738
-HsinChuang	1	0.17571884984
-Beauty	1	0.750159744409
-SportsShop	4	0.15910543131
-Hsinchu	1	0.42428115016
-camping	1	0.0351437699681
+board	degree	nordegree
+SportsShop	4	100.562248996
+bicycle	2	45.3623188406
+camping	1	28.4545454545
+HsinChuang	1	5.69090909091
+Hsinchu	1	2.35692771084
+Beauty	1	1.33304940375

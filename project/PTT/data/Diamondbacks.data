@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-MLB	10	0.68945686901
-Phillies	4	0.0127795527157
-Baseball	4	4.78274760383
-FBaseball	2	0.0485623003195
+board	degree	nordegree
+Phillies	4	1252.0
+MLB	10	145.041705283
+FBaseball	2	82.3684210526
+Baseball	4	3.34535738143

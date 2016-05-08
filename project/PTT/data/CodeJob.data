@@ -1,4 +1,4 @@
-Name	Degree	NorDegree
-car	1	0.631309904153
-job	5	0.0984025559105
-MAC	1	0.0817891373802
+board	degree	nordegree
+job	5	254.058441558
+MAC	1	12.2265625
+car	1	1.58400809717

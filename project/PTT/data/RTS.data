@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-Old-Games	8	0.0715654952077
-Koei	8	0.0485623003195
-gallantry	8	0.0945686900958
-C_Chat	4	2.8249201278
-Gossiping	80	19.1233226837
-HardwareSale	32	0.65303514377
+board	degree	nordegree
+HardwareSale	32	1568.06262231
+Koei	8	1317.89473684
+Old-Games	8	894.285714286
+gallantry	8	676.756756757
+Gossiping	80	334.669874365
+C_Chat	4	5.66387695092

@@ -1,7 +1,7 @@
-Name	Degree	NorDegree
-Food	3	0.792971246006
-EuropeTravel	3	0.0856230031949
-cat	1	0.15910543131
-Ind-travel	3	0.243450479233
-Japan_Travel	1	0.669009584665
-Spain	2	0.0159744408946
+board	degree	nordegree
+Spain	2	250.4
+EuropeTravel	3	105.111940299
+Ind-travel	3	36.968503937
+Food	3	11.3497179694
+cat	1	6.28514056225
+Japan_Travel	1	1.49474689589

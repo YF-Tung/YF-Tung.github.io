@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-MenTalk	7	2.14760383387
-MuscleBeach	1	0.193610223642
-sex	1	1.20830670927
-bi-sexual	2	0.0249201277955
-Gossiping	3	19.1233226837
-Web_Design	1	0.00958466453674
-transgender	1	0.0191693290735
+board	degree	nordegree
+bi-sexual	2	160.512820513
+Web_Design	1	104.333333333
+transgender	1	52.1666666667
+MenTalk	7	22.8161261529
+MuscleBeach	1	5.16501650165
+sex	1	0.827604442094
+Gossiping	3	0.470629510826

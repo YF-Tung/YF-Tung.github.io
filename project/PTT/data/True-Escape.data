@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-cookclub	1	0.0932907348243
-AllTogether	5	1.08370607029
-WomenTalk	2	3.19616613419
-Baseball	2	4.78274760383
-mobile-game	1	0.038338658147
-Wanted	1	8.00511182109
-Taipei	3	0.254952076677
+board	degree	nordegree
+Taipei	3	35.3007518797
+mobile-game	1	26.0833333333
+AllTogether	5	23.0689858491
+cookclub	1	10.7191780822
+WomenTalk	2	1.25149940024
+Baseball	2	0.836339345357
+Wanted	1	0.124920178799

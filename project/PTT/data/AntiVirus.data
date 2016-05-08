@@ -1,6 +1,6 @@
-Name	Degree	NorDegree
-Gossiping	1	19.1233226837
-Google	1	0.0562300319489
-MobileComm	1	0.94249201278
-MenTalk	1	2.14760383387
-LoL	3	2.79744408946
+board	degree	nordegree
+Google	1	17.7840909091
+LoL	3	3.21722247602
+MobileComm	1	1.06101694915
+MenTalk	1	0.465635227611
+Gossiping	1	0.0522921678696

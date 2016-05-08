@@ -1,5 +1,5 @@
-Name	Degree	NorDegree
-WomenTalk	1	3.19616613419
-Hate	37	11.3265175719
-HatePolitics	10	2.15463258786
-movie	1	1.67987220447
+board	degree	nordegree
+Hate	37	120.866805822
+HatePolitics	10	46.4116251483
+movie	1	0.59528337771
+WomenTalk	1	0.31287485006

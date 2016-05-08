@@ -1,8 +1,8 @@
-Name	Degree	NorDegree
-prozac	1	0.102236421725
-Child_Psy	1	0.023642172524
-Health_Life	1	0.0370607028754
-elderly	1	0.0172523961661
-Pharmacy	1	0.0159744408946
-Psychiatry	1	0.0351437699681
-Doctor-Info	1	0.0274760383387
+board	degree	nordegree
+Pharmacy	1	62.6
+elderly	1	57.962962963
+Child_Psy	1	42.2972972973
+Doctor-Info	1	36.3953488372
+Psychiatry	1	28.4545454545
+Health_Life	1	26.9827586207
+prozac	1	9.78125
