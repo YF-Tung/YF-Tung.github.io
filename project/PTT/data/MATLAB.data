@@ -1,6 +1,6 @@
 board	degree	nordegree
-comm_and_RF	1	313.0
-Electronics	1	78.25
-Chemistry	1	48.90625
-Gossiping	21	23.0608460305
-Military	1	3.57305936073
+Gossiping	21	1.04356523672
+comm_and_RF	1	0.996815286624
+Electronics	1	0.98738170347
+Chemistry	1	0.979962429555
+Military	1	0.781328007988
