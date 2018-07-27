@@ -12,4 +12,4 @@ The optimal mixing evolutionary algorithms (OMEAs) have recently drawn much atte
 
 [Download paper here](https://arxiv.org/pdf/1807.09203)
 
-Recommended citation: Y.-F. Tung and T.-L. Yu. Theoretical perspective of convergence complexity of evolutionary algorithms adopting optimal mixing. <i>Proceedings of the 2015 Annual Conference on Genetic and Evolutionary Computation</i> (<i>GECCO-2015</i>), pages 535-542. ACM, 2015.
+Recommended citation: 'Y.-F. Tung and T.-L. Yu. Theoretical perspective of convergence complexity of evolutionary algorithms adopting optimal mixing. <i>Proceedings of the 2015 Annual Conference on Genetic and Evolutionary Computation</i> (<i>GECCO-2015</i>), pages 535-542. ACM, 2015.'
