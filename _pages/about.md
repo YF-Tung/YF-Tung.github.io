@@ -33,4 +33,4 @@ Trivia
 Some trivia about me:
 
 * I truly don't know whether I'm a Scorpio or Libra. The ambiguity makes me really don't care about the horoscope things.
-* I don't have much phsical talents except sense of balance. I never fall!
+* I don't have much physical talents except sense of balance. I never fall!
