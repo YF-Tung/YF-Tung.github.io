@@ -22,13 +22,11 @@ Work Experience
 Side Projects
 ======
 Other than contributing to well-known projects, here are some of my personal projects.
-###Ptt Analyzer [GitHub](https://github.com/YF-Tung/PTT_Analyzer)
-======
-Based on collaborative filtering of user behavior across multiple bulletin boards, it recommends other boards that one might be interested in.
+* Ptt Analyzer [GitHub](https://github.com/YF-Tung/PTT_Analyzer)
+  Based on collaborative filtering of user behavior across multiple bulletin boards, it recommends other boards that one might be interested in.
 
-###Domain Name Checker [GitHub](https://github.com/YF-Tung/domain-name-checker)
-======
-A background service that periodically checks whether a domain name is still pointing to what you expecting. I'm using this along with [CertWatcher](https://github.com/YF-Tung/certwatcher).
+* Domain Name Checker [GitHub](https://github.com/YF-Tung/domain-name-checker)
+  A background service that periodically checks whether a domain name is still pointing to what you expecting. I'm using this along with [CertWatcher](https://github.com/YF-Tung/certwatcher).
 
 Trivia
 ======
